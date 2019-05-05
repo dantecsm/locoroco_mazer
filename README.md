@@ -3,7 +3,6 @@
 
 # demo
 
-![solution.gif](https://i.loli.net/2019/05/05/5cced39beebcc.gif)
 ![x.jpg](https://i.loli.net/2019/05/05/5cced56694e56.jpg)
 ![xshow.gif](https://i.loli.net/2019/05/05/5cced399e8d19.gif)
 ![y.jpg](https://i.loli.net/2019/05/05/5cced566a85d3.jpg)
